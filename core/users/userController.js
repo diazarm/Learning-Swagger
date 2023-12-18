@@ -13,4 +13,5 @@ const getAllUserController = async () => {
 };
 
 
-module.exports = getAllUserController
+
+module.exports = getAllUserController;
